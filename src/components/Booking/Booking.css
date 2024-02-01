@@ -1,0 +1,20 @@
+.selectMovie{
+  margin-top: 50px;
+}
+
+.screen{
+  width: 500px;
+  height: 150px;
+  text-align: center;
+  background-color: #696969;
+  margin-left: 500px;
+  padding: 60px;
+}
+
+.screenTableWrapper{
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 400px;
+}
